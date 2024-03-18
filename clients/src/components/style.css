@@ -1,0 +1,41 @@
+.loginPage {
+    background: url('../assets/images/login.jpg');
+    background-color: linear-gradient(rgba(11,11,11,0.5));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    background-color:rgba(5, 8, 14, 0.6);
+    color:white;
+}
+
+.registerPage {
+    background: url('../assets/images/download.jpg');
+    background-color: linear-gradient(rgba(11,11,11,0.5));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.registerForm{
+    background-color: rgba(5, 8, 14, 0.6);
+    color:white;
+}
+
+
+.incentivePage {
+    background: url('../assets/images/employee.jpeg');
+    background-color: linear-gradient(rgba(11,11,11,0.5));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    background-color:rgba(5, 8, 14, 0.6);
+    color:white;
+}
+
+
